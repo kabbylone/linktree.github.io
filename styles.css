@@ -1,0 +1,59 @@
+body {
+    background-image: url("https://marketplace.canva.com/EAE2BPNWojI/1/0/1600w/canva-grey-watercolor-abstract-nature-tree-ring-linktree-background-GiRZpSuA5rI.jpg");
+    background-color: lightblue;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 2px;
+}
+
+.profile-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    height: auto;
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+.profile-name {
+    text-align: center;
+    color: black;
+    padding: 30px;
+    font-size: 28px;
+}
+
+.icon{
+    max-width:50px;
+    height:auto;
+    border-radius: 50%;
+}
+
+.links {
+    background-color:rgb(112, 71, 30);
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid burlywood;
+    border-width: 2px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    font-size: 18px;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color:peru;
+    transition: color 1s;
+}
+
+a:hover {
+    border-color: lightskyblue;
+    color: lightsteelblue;
+    background-color: gray;
+}
